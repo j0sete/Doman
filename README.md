@@ -5,7 +5,7 @@
 Beta version, only with a few images of Europe.
 **You need OpenCV for make this program work.**
 
-*Alfa version, few images from europe path. Next releases are in Java, you won't special libraries*
+*Alfa version, few images from europe path. Next releases are in Java, you won't need special libraries*
 
 *Tested on Fedora 20*
 
