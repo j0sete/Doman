@@ -2,7 +2,7 @@
 
 ### Doman method for accelerated learning for children
 
-Alfa version, only with a few images of Europe. Using Java. Futuras actualizaciones incorporarán el sonido.
+Alfa version, only with a few images of Europe. Using Java. Future updates will incorporate the sound.
 
 *Alfa version, few images from europe path.*
 
