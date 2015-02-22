@@ -2,10 +2,9 @@
 
 ### Doman method for accelerated learning for children
 
-Beta version, only with a few images of Europe.
-**You need OpenCV for make this program work.**
+Alfa version, only with a few images of Europe. Using Java. Futuras actualizaciones incorporarán el sonido.
 
-*Alfa version, few images from europe path. Next releases are in Java, you won't need special libraries*
+*Alfa version, few images from europe path.*
 
 *Tested on Fedora 20*
 
@@ -13,9 +12,8 @@ Beta version, only with a few images of Europe.
 
 ### Método doman para acelerar el aprendizaje de los niños.
 
-Versión beta, solo contiene un pase de imágenes de europa.
-**Necesita OpenCV para que funcione**
+Versión alfa, solo contiene un pase de imágenes de europa. Futuras actualizaciones incorporarán el sonido.
 
-*Version alfa, pase de imagenes del directorio europa. Las siguientes versiones serán en Java, no necesitaremos de librerías especiales.*
+*Version alfa, pase de imagenes del directorio europa.*
 
 *Probado en Fedora 20*
