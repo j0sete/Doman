@@ -4,7 +4,7 @@ public class Principal{
 	
   public static void main(String[] args){
 	  
-	  String path = "/home/jrodriguez/Documentos/GitHub/Doman/europa/";
+	  String path = "/path/to/pictures/";
 	  //String audio = "/home/jrodriguez/Descargas/Torre_Eiffel.wav";
 	  
 	  //Session s = new Session(path);
